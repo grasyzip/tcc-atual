@@ -1,0 +1,14 @@
+:root {
+  --background-color: hsl(220, 13%, 91%);
+  --primary-color: #47b9aa;
+  --secondary-color: #469086;
+  --tertiary-color: #"256669";
+  --white-color: #ffffff;
+  --white2-color: #f7f7f7;
+}
+
+body {
+  background-color: var(--background-color);
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
